@@ -1,10 +1,6 @@
 # Deploy the CloudFormation Template
 To ensure that your Salesforce credentials are secure, the Lambdas require that the credentials are stored in AWS Secrets Manager. AWS Secrets Manager is a highly secure service that helps you store and retrieve secrets.
 
-## Additional Reference
-There is a of this process available for reference.
-[![Demo Video](sf_config.png)](https://connectbd-global-video.s3.amazonaws.com/sf_config.mp4)
-
 ## Deploy the Template
 1.	Right-click/control-click and open the [CloudFormation template](../CloudFormation/awsscv_sc.yaml) in a new window/tab.
 2.  Right-click/control-click the **Raw** button and save the link as awsscv_cs.yaml.
